@@ -1,0 +1,10 @@
+C:\DA\Выключатор\Выключатор\bin\Debug\Выключатор.exe.config
+C:\DA\Выключатор\Выключатор\bin\Debug\Выключатор.exe
+C:\DA\Выключатор\Выключатор\bin\Debug\Выключатор.pdb
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.csprojAssemblyReference.cache
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.Form1.resources
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.Properties.Resources.resources
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.csproj.GenerateResource.cache
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.csproj.CoreCompileInputs.cache
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.exe
+C:\DA\Выключатор\Выключатор\obj\Debug\Выключатор.pdb
